@@ -198,5 +198,6 @@
       "transform-react-remove-prop-types"
     ],
     "exclude": "node_modules"
-  }
+  },
+  "dependencies": {}
 }
